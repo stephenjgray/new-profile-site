@@ -1,0 +1,177 @@
+{
+  "cv": {
+    "profile": {
+      "name": "Stephen J. Gray",
+      "firstName": "Stephen",
+      "jobTitle": "Senior Software Engineer",
+      "address": {
+        "street": "9 Kate Melons Avenue",
+        "town": "Markinch",
+        "county": "Fife",
+        "postcode": "KY7 6QS"
+      },
+      "mobile": "07894 523 894",
+      "home": "01592 757 247",
+      "skype": "stephen.gray79",
+      "email": "stephenjgray79@gmail.com",
+      "excerpt": "Specialising in Frontend Development within a global leader in cyber security.",
+      "objective": "A confident senior software engineer working in a challenging and inspiring position within a global leader in cyber security organisation. A passionate agile practitioner, flexible, solution orientated, creative problem solver with a strong track record of success in large client-facing codebases.",
+      "keySellingPoints": [
+        {
+          "name": "Client Focussed",
+          "icon": "star"
+        },
+        {
+          "name": "Solution Orientated",
+          "icon": "star"
+        },
+        {
+          "name": "Purpose Driven",
+          "icon": "star"
+        },
+        {
+          "name": "Collaborative",
+          "icon": "star"
+        }
+      ],
+      "technicalSkills": [
+        "JavaScript / HTML5 / CSS3",
+        "React",
+        "Angular",
+        "GraphQl",
+        "Backbone.js / jQuery",
+        "Cloud computing utilising AWS Cloudfront, S3, Amplify, Kubernetes, Terraform and Jenkins.",
+        "Agile Software Development",
+        "Secure coding practices (GWEB Certified)",
+        "Involvement beyond the full software development lifecycle including planning, design, implementation (front and backend), manual and automation tests, UAT and app deployment;"
+      ],
+      "personalAttributes": [
+        "Motivated, flexible and proactive.",
+        "Analytical, problem solver who embraces challenge.",
+        "Driven, hardworking and ambitious.",
+        "Effective communicator and team player."
+      ],
+      "urls": {
+        "gitHub": "https://github.com/stephenjgray",
+        "linkedIn": "https://www.linkedin.com/in/stephenjgray/"
+      }
+    },
+    "experience": [
+      {
+        "jobTitle": "Frontend Developer",
+        "company": "Secureworks",
+        "dates": "February 2015 – Present",
+        "description": [
+          "A front-end specialist involved in building a client-facing platform which provides clients with a clear and informed view of their security posture.",
+          "Actively sought the squad app deployment specialist role, undertaking self study to become familiar with DevOps, reduced technical debt and automated manual deployment steps.",
+          "The role includes: working with geographically dispersed teams to develop secure MV* web-applications.  Presenting new features to stakeholders; working closely with product management, design and UX teams, participating in planning, design and requirements analysis meetings.",
+          "Taking part in code reviews, inputting into front-end architectural decisions and strategic analysis of new technologies.",
+          "Mentoring new squad members on front-end technologies, app deployment and application architectures.  Set up front-end guild with regular meet-ups to encourage consistent engineering approaches, sharing of ideas an increase engagement and motivation within frontend engineers.",
+          "Key team member of the Cloud Migration initiative, moving away from physical servers to an AWS environment.",
+          "Technologies utilized:",
+          "Frontend - JavaScript; React, BackboneJS; jQuery; LESS; HTML5, Webpack, Gulp;Backend - Java; Spring; JSP; Apache Tiles;",
+          "Everything else - AWS Cloudfront, S3, Jenkins, Kubernetes, Docker, Terraform, GIT."
+        ]
+      },
+      {
+        "jobTitle": ".NET Developer",
+        "company": "Example1",
+        "dates": "October 2014 – February 2015",
+        "description": [
+          "A contract role developing a web based order management application using the ext.Net MVC framework. The role included:",
+          "Regular user testing, input and feedback;",
+          "Requirements gathering and analysis.",
+          "Ensuring an accurate and concise change log;",
+          "During this role I worked independently and managed my own schedule.",
+          "Technologies utilized: C#; SQL; JavaScript; CSS; HTML; Ajax; JSON; ext.Net and Tortoise SVN."
+        ]
+      },
+      {
+        "jobTitle": "Masters Project",
+        "company": "Prudential plc",
+        "dates": "May 2014 – September 2014",
+        "description": [
+          "Creation of a web-based application utilising HTML5, CSS3 and JavaScript to carry out value at risk calculations and display results using a variety of graphs.",
+          "Achieved through an agile software development approach, including significant client engagement and extensive testing."
+        ]
+      },
+      {
+        "jobTitle": "Freelance Web Designer",
+        "company": "",
+        "dates": "October 2013 - June 2016",
+        "description": [
+          "Creating websites for small businesses, utilising wordpress, eCommerce platforms, php, HTML, CSS3 and Photoshop.",
+          "Conducting client liaison from pre-build to develop clear specification and contract to meet client needs, including marketing support and competitor analysis.",
+          "Delivery of sites to clients, including post-build maintenance aspects and training and support to enable client-led maintenance and updates."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "course": "MSc Information Technology",
+        "establishment": "University of Stirling",
+        "dates": "September 2014",
+        "grade": "Pass with distinction.",
+        "description": [
+          "Studies included: Database Principles and Applications; Principles and Practice of Programming; Foundations of Information Technology; Interface Design and the World Wide Web; Decision Support Systems; Multimedia; Object Orientated Software Design; and, Networking.",
+          "Winter Programming Assignment – achieved top mark in year group.",
+          "Dissertation - Value at Risk: Visual Approaches to Scrutinising Investment Risk- achieved grade of 1A."
+        ]
+      },
+      {
+        "course": "BA (hons) Marketing Management",
+        "establishment": "Edinburgh Napier University",
+        "dates": "June 2001",
+        "grade": "",
+        "description": [
+          "Emerging Markets, Marketing Ethics, Retail Marketing, Social Marketing, Operations Management, Consumer Behaviour, Introduction to Scots Law, Human Resources Principles and Practice, German 1, Accounting for Business, Organisational Behaviour."
+        ]
+      }
+    ],
+    "otherExperience": [
+      {
+        "jobTitle": "Nursery Manager",
+        "company": "Busy Bees (Scotland) Ltd.",
+        "dates": "December 2012 – August 2013",
+        "description": "Overseeing the operation of 89 place nursery, comprising a team of 22 staff members.\nIncrease in business performance from loss making position to over £11,500 monthly profit in six month period. Increase in full time equivalent occupancy by 18%.\nIncrease in service quality evidenced by positive parental feedback, positive feedback from local authority inspectors and grades achieved in setting during Care Inspection."
+      },
+      {
+        "jobTitle": "Area Manager - North East Scotland,",
+        "company": "Busy Bees (Scotland) Ltd.",
+        "dates": "July 2012 – December 2012",
+        "description": "Overseeing the operation of 7 separate business units.\nReview of marketing activities, leading to identification of opportunities to increase the visibility of the business.\nReview of sites and subsequent coaching of management to implement improvements in performance related to parental involvement, self-evaluation and quality assurance systems, quality of environment, and staff deployment.\nProviding leadership and support across multiple sites with varying business needs."
+      },
+      {
+        "jobTitle": "Operations Manager",
+        "company": "The Ark Nursery",
+        "dates": "January 2010 – July 2012",
+        "description": "Responsible for the day to day running of 49 place private day care nursery comprising of 21 staff members and over 100 clients. Management of £350,000 annual budget.\nIncrease in operating capacity from 49 places to 59 childcare places; project manager in charge of securing permissions with regulator. Project manager in charge of scoping outline extensions and business diversification.\nRegular input into Directors meetings, including performance measurement and reporting."
+      },
+      {
+        "jobTitle": "Nursery Manager",
+        "company": "Wonder Years Nursery.",
+        "dates": "June 2009 – December 2009",
+        "description": "Responsible for the day to day running of 57 place private day care nursery comprising of 13 staff members."
+      },
+      {
+        "jobTitle": "Nursery Manager",
+        "company": "Jack & Jill’s Private Day Care Nurseries.",
+        "dates": "January 2008 – March 2009",
+        "description": "Day to day responsibility for private day care nursery accommodating 64 children comprising of 10-12 staff members."
+      },
+      {
+        "jobTitle": "Nursery Manager",
+        "company": "Prime Time Nurseries Ltd.",
+        "dates": "June 2007 – December 2007",
+        "description": "Management of 62 place premium private day care nursery comprising of 20 staff members."
+      },
+      {
+        "jobTitle": "Marketing / Operations Manager",
+        "company": "Jack & Jill’s Private Day Care Nurseries.",
+        "dates": "October 2002 – June 2007",
+        "description": "Ensuring the smooth running of 4 separate business units and up to 90 employees.\nRunning a management and leadership coaching programme for nursery management teams. Responsible for all internal and external marketing, business development and promotional activities. Involved in the set-up of 2 business units from initial premises selection, internal building works, approvals process to opening.\nManaging localised advertising activities and press coverage gaining 119 new business enquiries over a 6 week period for a new business start-up.\nOther Experience"
+      }
+    ],
+    "projects": [{}, {}, {}]
+  }
+}
